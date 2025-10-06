@@ -1,0 +1,22 @@
+# Virtual Environment Folder
+venv/
+
+# Byte-code and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files (e.g., in text editors)
+*~
+*.swp
+.DS_Store
+
+# IDE and Editor files (common examples)
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Flask and OS-specific files
+instance/
+.flaskenv
